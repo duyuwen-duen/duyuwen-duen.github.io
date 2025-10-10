@@ -19,8 +19,7 @@ redirect_from:
 
 ## 👩‍💻 About Me
 
-Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https://en.sjtu.edu.cn/" target="_blank" style="color:#3399ff; text-decoration:none;">Shanghai Jiao Tong University</a>, advised by <a href="https://siheng-chen.github.io/" target="_blank" style="color:#3399ff; text-decoration:none;">Prof. Siheng Chen</a>. She obtained his B.Eng. degree (2021–2025) in Computer Science and Technology from  
-<a href="https://en.tju.edu.cn/" target="_blank" style="color:#3399ff;text-decoration:none;">Tianjin University</a>, where she ranked <span style="color:#3399ff;">2nd out of 143</span> in her cohort.  
+Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https://en.sjtu.edu.cn/" target="_blank" style="color:#3399ff; text-decoration:none;">Shanghai Jiao Tong University</a>, advised by <a href="https://siheng-chen.github.io/" target="_blank" style="color:#3399ff; text-decoration:none;">Prof. Siheng Chen</a>. She obtained his B.Eng. degree (2021–2025) in Computer Science and Technology from <a href="https://en.tju.edu.cn/" target="_blank" style="color:#3399ff;text-decoration:none;">Tianjin University</a>, where she ranked <span style="color:#3399ff;">2nd out of 143</span> in her cohort.  
 
 
 # 🔭 Research Interests

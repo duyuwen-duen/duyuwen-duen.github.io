@@ -57,7 +57,7 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv 2025</div>
+      <div class="badge">Tech Report 2025</div>
       <img src='images/X_master.png' alt="sym" width="100%">
     </div>
   </div>

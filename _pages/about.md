@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my Ph.D. degree in the School of Artificial Intelligence at <span style="color:#3399ff;">Shanghai Jiao Tong University</span>, advised by <span style="color:#3399ff;">Professor Siheng Chen</span>.  
+Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https://en.sjtu.edu.cn/" target="_blank" style="color:#3399ff; text-decoration:none;">Shanghai Jiao Tong University</a>, advised by <a href="https://siheng-chen.github.io/" target="_blank" style="color:#3399ff; text-decoration:none;">Prof. Siheng Chen</a>. She obtained his B.Eng. degree (2021–2025) in Computer Science and Technology from  
+<a href="https://en.tju.edu.cn/" target="_blank" style="color:#3399ff;text-decoration:none;">Tianjin University</a>, where she ranked <span style="color:#3399ff;">2nd out of 143</span> in her cohort.  
 
-I obtained my B.Eng. degree(2021-2025) in **Computer Science and Technology** from <span style="color:#3399ff;">Tianjin University</span>, where I ranked <span style="color:#3399ff;">2nd out of 143</span> in my cohort.
 
 # 🔭 Research Interests
 - Multi-Agent Systems
@@ -33,31 +33,49 @@ I obtained my B.Eng. degree(2021-2025) in **Computer Science and Technology** fr
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/simulation_result.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCV 2025</div>
+      <img src='images/simulation_result.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation](https://arxiv.org/pdf/2503.10410)
 
-**Yuwen Du***, Anning Hu*, Zichen Chao, Yifan Lu, Junhao Ge, Genjia Liu, Weitao Wu, Lanjun Wang, Siheng Chen
-
+**Yuwen Du***, Anning Hu*, Zichen Chao, Yifan Lu, Junhao Ge, Genjia Liu, Weitao Wu, Lanjun Wang, Siheng Chen  
 
 [**Project**](https://github.com/duyuwen-duen/RoCo-Sim)
 
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/X_master.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<br>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2025</div>
+      <img src='images/X_master.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?](https://arxiv.org/pdf/2507.05241)
 
-Jingyi Chai*, Shuo Tang*, Rui Ye*, **Yuwen Du***, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen
-
+Jingyi Chai*, Shuo Tang*, Rui Ye*, **Yuwen Du***, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen  
 
 [**Project**](https://github.com/sjtu-sai-agents/X-Master)
+
+  </div>
 </div>
 
-# 🎖 Honors and Awards
-- **National Scholarship** for Undergraduates, 2024  
-- **National Scholarship** for Undergraduates, 2023  
-- **National Scholarship** for Undergraduates, 2022  
-- Outstanding Graduate of Tianjin Municipality, 2024
+---
+
+## 🎖 Honors and Awards
+
+- **National Scholarship for Undergraduates**, 2024  
+- **National Scholarship for Undergraduates**, 2023  
+- **National Scholarship for Undergraduates**, 2022  
+- **Outstanding Graduate of Tianjin Municipality**, 2024

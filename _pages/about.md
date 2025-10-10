@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my Ph.D. degree in the School of Artificial Intelligence at  
-<span style="color:#3399ff;">Shanghai Jiao Tong University</span>, advised by  
-<span style="color:#3399ff;">Professor Siheng Chen</span>.  
+I am pursuing my Ph.D. degree in the School of Artificial Intelligence at <span style="color:#3399ff;">Shanghai Jiao Tong University</span>, advised by <span style="color:#3399ff;">Professor Siheng Chen</span>.  
 
-I obtained my B.Eng. degree(2021-2025) in **Computer Science and Technology** from  
-<span style="color:#3399ff;">Tianjin University</span>, where I ranked  
-<span style="color:#3399ff;">2nd out of 143</span> in my cohort.
+I obtained my B.Eng. degree(2021-2025) in **Computer Science and Technology** from <span style="color:#3399ff;">Tianjin University</span>, where I ranked <span style="color:#3399ff;">2nd out of 143</span> in my cohort.
 
 # 🔭 Research Interests
 - Multi-Agent Systems
@@ -31,9 +27,9 @@ I obtained my B.Eng. degree(2021-2025) in **Computer Science and Technology** fr
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 SciMaster, a multi-disciplinary general-purpose intelligent agent, was officially released at the World Artificial Intelligence Conference (WAIC).
-- *2025.07*: &nbsp;🎉🎉 For the first time, X-Masters surpasses the 30% threshold on Humanity’s Last Exam, achieving an impressive 32.1%.
-- *2025.06*: &nbsp;🎉🎉 RoCo-Sim was accepted to ** IEEE International Conference on Computer Vision (ICCV) 2025**!
+- *2025.07*: &nbsp;🎉🎉 **SciMaster**, a multi-disciplinary general-purpose intelligent agent, was officially released at the World Artificial Intelligence Conference (WAIC).
+- *2025.07*: &nbsp;🎉🎉 **X-Masters** surpasses the 30% threshold on Humanity’s Last Exam for the first time, achieving an impressive 32.1%.
+- *2025.06*: &nbsp;🎉🎉 **RoCo-Sim** was accepted to **ICCV 2025**!
 
 # 📝 Publications 
 

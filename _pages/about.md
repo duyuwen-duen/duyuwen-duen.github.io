@@ -42,7 +42,18 @@ I obtained my B.Eng. degree(2021-2025) in **Computer Science and Technology** fr
 
 
 [**Project**](https://github.com/duyuwen-duen/RoCo-Sim)
+
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/X_master.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?](https://arxiv.org/pdf/2507.05241)
+
+Jingyi Chai*, Shuo Tang*, Rui Ye*, **Yuwen Du***, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen
+
+
+[**Project**](https://github.com/sjtu-sai-agents/X-Master)
 </div>
 
 # 🎖 Honors and Awards

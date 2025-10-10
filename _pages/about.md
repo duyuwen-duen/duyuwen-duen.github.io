@@ -45,7 +45,7 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 
 [RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation](https://arxiv.org/pdf/2503.10410)
 
-**Yuwen Du***, Anning Hu*, Zichen Chao, Yifan Lu, Junhao Ge, Genjia Liu, Weitao Wu, Lanjun Wang, Siheng Chen  
+**Yuwen Du\***, Anning Hu\*, Zichen Chao, Yifan Lu, Junhao Ge, Genjia Liu, Weitao Wu, Lanjun Wang, Siheng Chen  
 
 [**Project**](https://github.com/duyuwen-duen/RoCo-Sim)
 
@@ -65,7 +65,7 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 
 [SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?](https://arxiv.org/pdf/2507.05241)
 
-Jingyi Chai*, Shuo Tang*, Rui Ye*, **Yuwen Du***, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen  
+Jingyi Chai\*, Shuo Tang\*, Rui Ye\*, **Yuwen Du\***, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen  
 
 [**Project**](https://github.com/sjtu-sai-agents/X-Master)
 

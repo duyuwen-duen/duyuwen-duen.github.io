@@ -73,7 +73,8 @@ Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<s
 </div>
 
 ## 🎖 Honors and Awards
+- **Outstanding Graduate of Tianjin Municipality**, 2025
 - **National Scholarship for Undergraduates**, 2024  
 - **National Scholarship for Undergraduates**, 2023  
 - **National Scholarship for Undergraduates**, 2022  
-- **Outstanding Graduate of Tianjin Municipality**, 2025
+

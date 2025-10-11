@@ -74,8 +74,6 @@ Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<s
   </div>
 </div>
 
----
-
 ## 🎖 Honors and Awards
 
 - **National Scholarship for Undergraduates**, 2024  

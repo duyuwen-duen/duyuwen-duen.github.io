@@ -28,6 +28,7 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 
 
 ## 🔥 News
+- *2026.03*: &nbsp;🎉🎉 **OpenSeeker**, a purely academic initiative, achieved SOTA search while open-sourcing everything: models and 100% full training data.
 - *2025.07*: &nbsp;🎉🎉 **SciMaster**, a multi-disciplinary general-purpose intelligent agent, was officially released at the World Artificial Intelligence Conference (WAIC).
 - *2025.07*: &nbsp;🎉🎉 **X-Masters** surpasses the 30% threshold on Humanity’s Last Exam for the first time, achieving an impressive 32.1%.
 - *2025.06*: &nbsp;🎉🎉 **RoCo-Sim** was accepted to **ICCV 2025**!
@@ -68,6 +69,30 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<sup>*</sup>**, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen  
 
 [**Project**](https://github.com/sjtu-sai-agents/X-Master)
+
+  </div>
+</div>
+
+<br>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Tech Report 2026</div>
+      <img src='images/openseeker.png' alt="OpenSeeker figure" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/pdf/2603.15594)
+
+**Yuwen Du<sup>1,*</sup>**, Rui Ye<sup>1,*,#,†</sup>, Shuo Tang<sup>1</sup>, Xinyu Zhu<sup>1</sup>, Yijun Lu<sup>1</sup>, Yuzhu Cai<sup>1</sup>, Siheng Chen<sup>1,†</sup>  
+
+
+👨‍💻 [GitHub: OpenSeeker](https://github.com/rui-ye/OpenSeeker)  
+🤗 [Data](https://huggingface.co/datasets/OpenSeeker/OpenSeeker-v1-Data)  
+🤗 [Models](https://huggingface.co/OpenSeeker/OpenSeeker-v1-30B-SFT)  
+📄 [Paper](https://arxiv.org/pdf/2603.15594)
 
   </div>
 </div>

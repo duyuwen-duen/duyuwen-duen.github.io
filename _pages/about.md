@@ -38,17 +38,17 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICCV 2025</div>
-      <img src='images/simulation_result.png' alt="RoCo-Sim figure" width="100%">
+      <div class="badge">Tech Report 2026</div>
+      <img src='images/openseeker.png' alt="OpenSeeker figure" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation](https://arxiv.org/pdf/2503.10410)
+[OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/pdf/2603.15594)
 
-**Yuwen Du<sup>*</sup>**, Anning Hu<sup>*</sup>, Zichen Chao, Yifan Lu, Junhao Ge, Genjia Liu, Weitao Wu, Lanjun Wang, Siheng Chen  
+**Yuwen Du<sup>1,*</sup>**, Rui Ye<sup>1,*,#,†</sup>, Shuo Tang<sup>1</sup>, Xinyu Zhu<sup>1</sup>, Yijun Lu<sup>1</sup>, Yuzhu Cai<sup>1</sup>, Siheng Chen<sup>1,†</sup>  
 
-[**Project**](https://github.com/duyuwen-duen/RoCo-Sim)
+[**ArXiv**](https://arxiv.org/pdf/2603.15594) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Training Data**](https://huggingface.co/datasets/OpenSeeker/OpenSeeker-v1-Data) / [**Model**](https://huggingface.co/OpenSeeker/OpenSeeker-v1-30B-SFT)
 
   </div>
 </div>
@@ -68,7 +68,7 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 
 Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<sup>*</sup>**, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen  
 
-[**Project**](https://github.com/sjtu-sai-agents/X-Master)
+[**ArXiv**](https://arxiv.org/pdf/2507.05241) / [**Code**](https://github.com/sjtu-sai-agents/X-Master) ![Stars](https://img.shields.io/github/stars/sjtu-sai-agents/X-Master?style=social)
 
   </div>
 </div>
@@ -78,21 +78,17 @@ Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<s
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Tech Report 2026</div>
-      <img src='images/openseeker.png' alt="OpenSeeker figure" width="100%">
+      <div class="badge">ICCV 2025</div>
+      <img src='images/simulation_result.png' alt="RoCo-Sim figure" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/pdf/2603.15594)
+[RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation](https://arxiv.org/pdf/2503.10410)
 
-**Yuwen Du<sup>1,*</sup>**, Rui Ye<sup>1,*,#,†</sup>, Shuo Tang<sup>1</sup>, Xinyu Zhu<sup>1</sup>, Yijun Lu<sup>1</sup>, Yuzhu Cai<sup>1</sup>, Siheng Chen<sup>1,†</sup>  
+**Yuwen Du<sup>*</sup>**, Anning Hu<sup>*</sup>, Zichen Chao, Yifan Lu, Junhao Ge, Genjia Liu, Weitao Wu, Lanjun Wang, Siheng Chen  
 
-
-👨‍💻 [GitHub: OpenSeeker](https://github.com/rui-ye/OpenSeeker)  
-🤗 [Data](https://huggingface.co/datasets/OpenSeeker/OpenSeeker-v1-Data)  
-🤗 [Models](https://huggingface.co/OpenSeeker/OpenSeeker-v1-30B-SFT)  
-📄 [Paper](https://arxiv.org/pdf/2603.15594)
+[**ArXiv**](https://arxiv.org/pdf/2503.10410) / [**Code**](https://github.com/duyuwen-duen/RoCo-Sim) ![Stars](https://img.shields.io/github/stars/duyuwen-duen/RoCo-Sim?style=social)
 
   </div>
 </div>

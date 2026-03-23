@@ -46,7 +46,7 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 
 [OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/pdf/2603.15594)
 
-**Yuwen Du<sup>1,*</sup>**, Rui Ye<sup>1,*,#,†</sup>, Shuo Tang<sup>1</sup>, Xinyu Zhu<sup>1</sup>, Yijun Lu<sup>1</sup>, Yuzhu Cai<sup>1</sup>, Siheng Chen<sup>1,†</sup>  
+**Yuwen Du<sup>*</sup>**, Rui Ye<sup>*,#,†</sup>, Shuo Tang, Xinyu Zhu, Yijun Lu, Yuzhu Cai, Siheng Chen<sup>†</sup>  
 
 [**ArXiv**](https://arxiv.org/pdf/2603.15594) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Training Data**](https://huggingface.co/datasets/OpenSeeker/OpenSeeker-v1-Data) / [**Model**](https://huggingface.co/OpenSeeker/OpenSeeker-v1-30B-SFT)
 

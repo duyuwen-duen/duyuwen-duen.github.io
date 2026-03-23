@@ -23,8 +23,9 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 
 
 ## 🔭 Research Interests
+- AI Agents
 - Multi-Agent Systems
-- Autonomous Driving Simulation
+
 
 
 ## 🔥 News

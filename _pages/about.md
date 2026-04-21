@@ -31,7 +31,7 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 ## 🔥 News
 - *2026.03*: &nbsp;🎉🎉 **OpenSeeker**, a purely academic initiative, achieved SOTA search while open-sourcing everything: models and 100% full training data.
 - *2026.11*: &nbsp;🎉🎉 [**PaSaMaster**](https://scimaster.bohrium.com/chat/paper-search), an agent-driven, fully autonomous multidisciplinary literature retrieval system, understands natural-language queries and helps you find the papers you need.
-- *2025.07*: &nbsp;🎉🎉 **SciMaster**, a multi-disciplinary general-purpose intelligent agent, was officially released at the World Artificial Intelligence Conference (WAIC).
+- *2025.07*: &nbsp;🎉🎉 [**SciMaster**](https://scimaster.bohrium.com/chat/general), a multi-disciplinary general-purpose intelligent agent, was officially released at the World Artificial Intelligence Conference (WAIC).
 - *2025.07*: &nbsp;🎉🎉 **X-Masters** surpasses the 30% threshold on Humanity’s Last Exam for the first time, achieving an impressive 32.1%.
 - *2025.06*: &nbsp;🎉🎉 **RoCo-Sim** was accepted to **ICCV 2025**!
 

@@ -29,6 +29,7 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 
 
 ## 🔥 News
+- *2026.05*: &nbsp;🎉🎉 [**OpenSeeker-v2**](https://arxiv.org/pdf/2605.04036) pushes search agents further: **SOTA** with **only ~10k** high-quality trajectories under **pure SFT**.
 - *2026.03*: &nbsp;🎉🎉 **OpenSeeker**, a purely academic initiative, achieved SOTA search while open-sourcing everything: models and 100% full training data.
 - *2026.11*: &nbsp;🎉🎉 [**PaSaMaster**](https://scimaster.bohrium.com/chat/paper-search), an agent-driven, fully autonomous multidisciplinary literature retrieval system, understands natural-language queries and helps you find the papers you need.
 - *2025.07*: &nbsp;🎉🎉 [**SciMaster**](https://scimaster.bohrium.com/chat/general), a multi-disciplinary general-purpose intelligent agent, was officially released at the World Artificial Intelligence Conference (WAIC).
@@ -36,6 +37,28 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 - *2025.06*: &nbsp;🎉🎉 **RoCo-Sim** was accepted to **ICCV 2025**!
 
 ## 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Tech Report 2026</div>
+      <img src='images/openseekerv2.png' alt="OpenSeeker-v2 figure" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/pdf/2605.04036)
+
+We show that **~10k** informative, high-difficulty trajectories with **pure SFT** suffice to reach **SOTA** among open search agents.
+
+**Yuwen Du<sup>*</sup>**, Rui Ye<sup>*,#,†</sup>, Shuo Tang, Keduan Huang, Xinyu Zhu, Yuzhu Cai, Siheng Chen<sup>†</sup>  
+
+[**ArXiv**](https://arxiv.org/pdf/2605.04036)
+
+  </div>
+</div>
+
+<br>
 
 <div class='paper-box'>
   <div class='paper-box-image'>

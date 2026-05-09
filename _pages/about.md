@@ -53,7 +53,7 @@ We show that **~10k** informative, high-difficulty trajectories with **pure SFT*
 
 **Yuwen Du<sup>*</sup>**, Rui Ye<sup>*,#,†</sup>, Shuo Tang, Keduan Huang, Xinyu Zhu, Yuzhu Cai, Siheng Chen<sup>†</sup>  
 
-[**ArXiv**](https://arxiv.org/pdf/2605.04036)
+[**ArXiv**](https://arxiv.org/pdf/2605.04036) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Model**](https://huggingface.co/PolarSeeker/OpenSeeker-v2-30B-SFT)
 
   </div>
 </div>

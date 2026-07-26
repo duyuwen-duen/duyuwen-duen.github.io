@@ -26,7 +26,7 @@ I am a Ph.D. student at the School of Artificial Intelligence,<a href="https://e
 - *2026.07*: &nbsp;🎉🎉 [**AI4AI at Scale: Building Open-Weight Deep Search Agents**](https://xyz-lab.ai/blogs/ai4ai-at-scale/) by **XYZ Team** reports strong results on **BrowseComp** and **Humanity's Last Exam**: **78.8% / 51.1%** for XYZ-Aquila-mini and **84.8% / 53.3%** for XYZ-Aquila-pro. 
 - *2026.05*: &nbsp;🎉🎉 [**OpenSeeker-v2**](https://arxiv.org/pdf/2605.04036) pushes search agents further: **SOTA** with **only ~10k** high-quality trajectories under **pure SFT**.
 - *2026.03*: &nbsp;🎉🎉 [**OpenSeeker**](https://arxiv.org/pdf/2603.15594), a purely academic initiative, achieved SOTA search while open-sourcing everything: models and 100% full training data.
-- *2026.11*: &nbsp;🎉🎉 [**PaSaMaster**](https://scimaster.bohrium.com/chat/paper-search), an agent-driven, fully autonomous multidisciplinary literature retrieval system, understands natural-language queries and helps you find the papers you need.
+- *2025.11*: &nbsp;🎉🎉 [**PaSaMaster**](https://scimaster.bohrium.com/chat/paper-search), an agent-driven, fully autonomous multidisciplinary literature retrieval system, understands natural-language queries and helps you find the papers you need.
 - *2025.07*: &nbsp;🎉🎉 [**SciMaster**](https://scimaster.bohrium.com/chat/general), a multi-disciplinary general-purpose intelligent agent, was officially released at the World Artificial Intelligence Conference (WAIC).
 - *2025.07*: &nbsp;🎉🎉 **X-Masters** surpasses the 30% threshold on Humanity’s Last Exam for the first time, achieving an impressive 32.1%.
 - *2025.06*: &nbsp;🎉🎉 **RoCo-Sim** was accepted to **ICCV 2025**!
@@ -68,7 +68,7 @@ XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **Bro
 
 **Yuwen Du<sup>*</sup>**, Rui Ye<sup>*</sup>, Shuo Tang, Keduan Huang, Xinyu Zhu, Yuzhu Cai, Siheng Chen
 
-A follow-up release that expands OpenSeeker with more informative and higher-difficulty trajectories for stronger search-agent SFT.
+A compact SFT release that expands OpenSeeker with more informative and higher-difficulty trajectories, showing that only 10k samples can still push same-scale pure ReAct models to SOTA performance.
 
 [**ArXiv**](https://arxiv.org/pdf/2605.04036) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Model**](https://huggingface.co/PolarSeeker/OpenSeeker-v2-30B-SFT)
 
@@ -90,9 +90,31 @@ A follow-up release that expands OpenSeeker with more informative and higher-dif
 
 **Yuwen Du<sup>*</sup>**, Rui Ye<sup>*</sup>, Shuo Tang, Xinyu Zhu, Yijun Lu, Yuzhu Cai, Siheng Chen
 
-We fully open-sourced the training data and model to make frontier search agents more reproducible and accessible.
+We fill a long-standing gap in frontier search by fully open-sourcing the training data and model, making strong search agents more reproducible and accessible.
 
 [**ArXiv**](https://arxiv.org/pdf/2603.15594) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Training Data**](https://huggingface.co/datasets/OpenSeeker/OpenSeeker-v1-Data) / [**Model**](https://huggingface.co/OpenSeeker/OpenSeeker-v1-30B-SFT) / [**机器之心**](https://mp.weixin.qq.com/s/lGx7WK_EvwisYCngiDW-mw)
+
+  </div>
+</div>
+
+<br>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICML Workshop 2026</div>
+      <img src='images/pasamaster.png' alt="PaSaMaster figure" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[PaSaMaster: Towards Self-Evolving Agentic Literature Retrieval](https://arxiv.org/pdf/2605.14306)
+
+**Yuwen Du<sup>*</sup>**, Tian Jin<sup>*</sup>, Jing Kang, Xianghe Pang, Jingyi Chai, Tingjia Miao, Fenyi Liu, WenHao Wang, Sikai Yao, Yuzhi Zhang, Siheng Chen
+
+A recursive self-evolving agentic literature retrieval system that iteratively analyzes intent, retrieves verified papers, and ranks them with evidence-grounded relevance scores. 
+
+[**ArXiv**](https://arxiv.org/pdf/2605.14306) / [**Code**](https://github.com/sjtu-sai-agents/PaSaMaster) ![Stars](https://img.shields.io/github/stars/sjtu-sai-agents/PaSaMaster?style=social)
 
   </div>
 </div>
@@ -112,7 +134,7 @@ We fully open-sourced the training data and model to make frontier search agents
 
 Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<sup>*</sup>**, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen  
 
-A general-purpose scientific AI agent designed to support broad, multi-disciplinary scientific search and reasoning.
+A general-purpose scientific AI agent built upon our tool-augmented reasoning agent X-Master, designed to flexibly interact with external tools during scientific reasoning.
 
 [**ArXiv**](https://arxiv.org/pdf/2507.05241) / [**Code**](https://github.com/sjtu-sai-agents/X-Master) ![Stars](https://img.shields.io/github/stars/sjtu-sai-agents/X-Master?style=social)
 

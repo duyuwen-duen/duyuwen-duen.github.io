@@ -19,16 +19,11 @@ redirect_from:
 
 ## 👩‍💻 About Me
 
-Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https://en.sjtu.edu.cn/" target="_blank" style="color:#3399ff; text-decoration:none;">Shanghai Jiao Tong University</a>, advised by <a href="https://siheng-chen.github.io/" target="_blank" style="color:#3399ff; text-decoration:none;">Prof. Siheng Chen</a>. She obtained his B.Eng. degree (2021–2025) in Computer Science and Technology from <a href="https://en.tju.edu.cn/" target="_blank" style="color:#3399ff;text-decoration:none;">Tianjin University</a>, where she ranked **2nd out of 143** in her cohort.  
-
-
-## 🔭 Research Interests
-- AI Agents
-- Multi-Agent Systems
-
+I am a Ph.D. student at the School of Artificial Intelligence,<a href="https://en.sjtu.edu.cn/" target="_blank" style="color:#3399ff; text-decoration:none;">Shanghai Jiao Tong University</a>, advised by <a href="https://siheng-chen.github.io/" target="_blank" style="color:#3399ff; text-decoration:none;">Prof. Siheng Chen</a>. I received my B.Eng. degree (2021–2025) in Computer Science and Technology from <a href="https://en.tju.edu.cn/" target="_blank" style="color:#3399ff;text-decoration:none;">Tianjin University</a>, where I ranked **2nd out of 143** in my cohort. My research interests include **Agentic AI** and **Multi-Agent Systems**. I am always happy to discuss **research ideas** and **potential collaborations**. Feel free to reach out!  
 
 
 ## 🔥 News
+- *2026.07*: &nbsp;🎉🎉 [**AI4AI at Scale: Building Open-Weight Deep Search Agents**](https://xyz-lab.ai/blogs/ai4ai-at-scale/) by **XYZ Team** reports strong results on **BrowseComp** and **Humanity's Last Exam**: **78.8% / 51.1%** for XYZ-Aquila-mini and **84.8% / 53.3%** for XYZ-Aquila-pro. I was primarily responsible for **data synthesis**, a core component behind the agent's strong performance gains.
 - *2026.05*: &nbsp;🎉🎉 [**OpenSeeker-v2**](https://arxiv.org/pdf/2605.04036) pushes search agents further: **SOTA** with **only ~10k** high-quality trajectories under **pure SFT**.
 - *2026.03*: &nbsp;🎉🎉 [**OpenSeeker**](https://arxiv.org/pdf/2603.15594), a purely academic initiative, achieved SOTA search while open-sourcing everything: models and 100% full training data.
 - *2026.11*: &nbsp;🎉🎉 [**PaSaMaster**](https://scimaster.bohrium.com/chat/paper-search), an agent-driven, fully autonomous multidisciplinary literature retrieval system, understands natural-language queries and helps you find the papers you need.
@@ -37,6 +32,28 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 - *2025.06*: &nbsp;🎉🎉 **RoCo-Sim** was accepted to **ICCV 2025**!
 
 ## 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Tech Blog 2026</div>
+      <img src='images/xyz_result.png' alt="XYZ-Aquila result figure" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[AI4AI at Scale: Building Open-Weight Deep Search Agents](https://xyz-lab.ai/blogs/ai4ai-at-scale/)
+
+**XYZ Team**
+
+XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **BrowseComp**, **85.1%** on **BrowseComp-ZH**, **92.5%** on **DeepSearchQA**, **53.7%** on **LiveBrowseComp**, **53.3%** on **Humanity's Last Exam**, and **81.2%** on **WideSearch**. I was primarily responsible for **data synthesis**, a core component behind the agent's strong performance gains. The OpenSeeker data also provided important support for these capability gains.
+
+[**Paper**](https://xyz-lab.ai/blogs/ai4ai-at-scale/assets/bounded-exploration-ai4ai-system-optimization.pdf) / [**harness_code**](https://github.com/XYZ-AI-Lab/AxisAgentic) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/AxisAgentic?style=social) / [**training_code**](https://github.com/XYZ-AI-Lab/axrl) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/axrl?style=social) / [**机器之心**](https://mp.weixin.qq.com/s/r8XCiqFTFcD5LVMJlbeghA)
+
+  </div>
+</div>
+
+<br>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -61,7 +78,7 @@ Yuwen is a Ph.D. student at the School of Artificial Intelligence,<a href="https
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Tech Report 2026</div>
+      <div class="badge">COLM 2026</div>
       <img src='images/openseeker.png' alt="OpenSeeker figure" width="100%">
     </div>
   </div>

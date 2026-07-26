@@ -23,7 +23,7 @@ I am a Ph.D. student at the School of Artificial Intelligence,<a href="https://e
 
 
 ## 🔥 News
-- *2026.07*: &nbsp;🎉🎉 [**AI4AI at Scale: Building Open-Weight Deep Search Agents**](https://xyz-lab.ai/blogs/ai4ai-at-scale/) by **XYZ Team** reports strong results on **BrowseComp** and **Humanity's Last Exam**: **78.8% / 51.1%** for XYZ-Aquila-mini and **84.8% / 53.3%** for XYZ-Aquila-pro. I was primarily responsible for **data synthesis**, a core component behind the agent's strong performance gains.
+- *2026.07*: &nbsp;🎉🎉 [**AI4AI at Scale: Building Open-Weight Deep Search Agents**](https://xyz-lab.ai/blogs/ai4ai-at-scale/) by **XYZ Team** reports strong results on **BrowseComp** and **Humanity's Last Exam**: **78.8% / 51.1%** for XYZ-Aquila-mini and **84.8% / 53.3%** for XYZ-Aquila-pro. 
 - *2026.05*: &nbsp;🎉🎉 [**OpenSeeker-v2**](https://arxiv.org/pdf/2605.04036) pushes search agents further: **SOTA** with **only ~10k** high-quality trajectories under **pure SFT**.
 - *2026.03*: &nbsp;🎉🎉 [**OpenSeeker**](https://arxiv.org/pdf/2603.15594), a purely academic initiative, achieved SOTA search while open-sourcing everything: models and 100% full training data.
 - *2026.11*: &nbsp;🎉🎉 [**PaSaMaster**](https://scimaster.bohrium.com/chat/paper-search), an agent-driven, fully autonomous multidisciplinary literature retrieval system, understands natural-language queries and helps you find the papers you need.
@@ -46,9 +46,9 @@ I am a Ph.D. student at the School of Artificial Intelligence,<a href="https://e
 
 **XYZ Team**
 
-XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **BrowseComp**, **85.1%** on **BrowseComp-ZH**, **92.5%** on **DeepSearchQA**, **53.7%** on **LiveBrowseComp**, **53.3%** on **Humanity's Last Exam**, and **81.2%** on **WideSearch**. I was primarily responsible for **data synthesis**, a core component behind the agent's strong performance gains. The OpenSeeker data also provided important support for these capability gains.
+XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **BrowseComp**, **85.1%** on **BrowseComp-ZH**, **92.5%** on **DeepSearchQA**, **53.7%** on **LiveBrowseComp**, **53.3%** on **Humanity's Last Exam**, and **81.2%** on **WideSearch**. I was primarily responsible for **data synthesis**, a core component behind the agent's strong performance gains. The **OpenSeeker data** also provided important support for these capability gains.
 
-[**Paper**](https://xyz-lab.ai/blogs/ai4ai-at-scale/assets/bounded-exploration-ai4ai-system-optimization.pdf) / [**harness_code**](https://github.com/XYZ-AI-Lab/AxisAgentic) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/AxisAgentic?style=social) / [**training_code**](https://github.com/XYZ-AI-Lab/axrl) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/axrl?style=social) / [**机器之心**](https://mp.weixin.qq.com/s/r8XCiqFTFcD5LVMJlbeghA)
+[**Paper**](https://xyz-lab.ai/blogs/ai4ai-at-scale/assets/bounded-exploration-ai4ai-system-optimization.pdf) / [**Harness_code**](https://github.com/XYZ-AI-Lab/AxisAgentic) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/AxisAgentic?style=social) / [**Training_code**](https://github.com/XYZ-AI-Lab/axrl) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/axrl?style=social) / [**机器之心**](https://mp.weixin.qq.com/s/r8XCiqFTFcD5LVMJlbeghA)
 
   </div>
 </div>
@@ -66,7 +66,9 @@ XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **Bro
 
 [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/pdf/2605.04036)
 
-**Yuwen Du<sup>*</sup>**, Rui Ye<sup>*,#,†</sup>, Shuo Tang, Keduan Huang, Xinyu Zhu, Yuzhu Cai, Siheng Chen<sup>†</sup>  
+**Yuwen Du<sup>*</sup>**, Rui Ye<sup>*</sup>, Shuo Tang, Keduan Huang, Xinyu Zhu, Yuzhu Cai, Siheng Chen
+
+A follow-up release that expands OpenSeeker with more informative and higher-difficulty trajectories for stronger search-agent SFT.
 
 [**ArXiv**](https://arxiv.org/pdf/2605.04036) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Model**](https://huggingface.co/PolarSeeker/OpenSeeker-v2-30B-SFT)
 
@@ -86,7 +88,9 @@ XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **Bro
 
 [OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/pdf/2603.15594)
 
-**Yuwen Du<sup>*</sup>**, Rui Ye<sup>*,#,†</sup>, Shuo Tang, Xinyu Zhu, Yijun Lu, Yuzhu Cai, Siheng Chen<sup>†</sup>  
+**Yuwen Du<sup>*</sup>**, Rui Ye<sup>*</sup>, Shuo Tang, Xinyu Zhu, Yijun Lu, Yuzhu Cai, Siheng Chen
+
+We fully open-sourced the training data and model to make frontier search agents more reproducible and accessible.
 
 [**ArXiv**](https://arxiv.org/pdf/2603.15594) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Training Data**](https://huggingface.co/datasets/OpenSeeker/OpenSeeker-v1-Data) / [**Model**](https://huggingface.co/OpenSeeker/OpenSeeker-v1-30B-SFT) / [**机器之心**](https://mp.weixin.qq.com/s/lGx7WK_EvwisYCngiDW-mw)
 
@@ -108,6 +112,8 @@ XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **Bro
 
 Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<sup>*</sup>**, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen  
 
+A general-purpose scientific AI agent designed to support broad, multi-disciplinary scientific search and reasoning.
+
 [**ArXiv**](https://arxiv.org/pdf/2507.05241) / [**Code**](https://github.com/sjtu-sai-agents/X-Master) ![Stars](https://img.shields.io/github/stars/sjtu-sai-agents/X-Master?style=social)
 
   </div>
@@ -127,6 +133,8 @@ Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<s
 [RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation](https://arxiv.org/pdf/2503.10410)
 
 **Yuwen Du<sup>*</sup>**, Anning Hu<sup>*</sup>, Zichen Chao, Yifan Lu, Junhao Ge, Genjia Liu, Weitao Wu, Lanjun Wang, Siheng Chen  
+
+A foreground simulation framework that improves roadside collaborative perception by generating more realistic training scenes.
 
 [**ArXiv**](https://arxiv.org/pdf/2503.10410) / [**Code**](https://github.com/duyuwen-duen/RoCo-Sim) ![Stars](https://img.shields.io/github/stars/duyuwen-duen/RoCo-Sim?style=social)
 

@@ -19,19 +19,48 @@ redirect_from:
 
 ## 👩‍💻 About Me
 
-I am a Ph.D. student at the School of Artificial Intelligence,<a href="https://en.sjtu.edu.cn/" target="_blank" style="color:#3399ff; text-decoration:none;">Shanghai Jiao Tong University</a>, advised by <a href="https://siheng-chen.github.io/" target="_blank" style="color:#3399ff; text-decoration:none;">Prof. Siheng Chen</a>. I received my B.Eng. degree (2021–2025) in Computer Science and Technology from <a href="https://en.tju.edu.cn/" target="_blank" style="color:#3399ff;text-decoration:none;">Tianjin University</a>, where I ranked **2nd out of 143** in my cohort. My research interests include **Agentic AI** and **Multi-Agent Systems**. I am always happy to discuss **research ideas** and **potential collaborations**. Feel free to reach out!  
+I am a Ph.D. student at the School of Artificial Intelligence,<a href="https://en.sjtu.edu.cn/" target="_blank" style="color:#3399ff; text-decoration:none;">Shanghai Jiao Tong University</a>, advised by <a href="https://siheng-chen.github.io/" target="_blank" style="color:#3399ff; text-decoration:none;">Prof. Siheng Chen</a>. I received my B.Eng. degree (2021–2025) in Computer Science and Technology from <a href="https://en.tju.edu.cn/" target="_blank" style="color:#3399ff;text-decoration:none;">Tianjin University</a>, where I ranked **2nd out of 143** in my cohort. My research interests include **Agentic AI** and **Multi-Agent Systems**.
+
+I am always happy to discuss **research ideas** and **potential collaborations**. Feel free to reach out!
 
 
 ## 🔥 News
-- *2026.07*: &nbsp;🎉🎉 [**AI4AI at Scale: Building Open-Weight Deep Search Agents**](https://xyz-lab.ai/blogs/ai4ai-at-scale/) by **XYZ Team** reports strong results on **BrowseComp** and **Humanity's Last Exam**: **78.8% / 51.1%** for XYZ-Aquila-mini and **84.8% / 53.3%** for XYZ-Aquila-pro. 
-- *2026.05*: &nbsp;🎉🎉 [**OpenSeeker-v2**](https://arxiv.org/pdf/2605.04036) pushes search agents further: **SOTA** with **only ~10k** high-quality trajectories under **pure SFT**.
-- *2026.03*: &nbsp;🎉🎉 [**OpenSeeker**](https://arxiv.org/pdf/2603.15594), a purely academic initiative, achieved SOTA search while open-sourcing everything: models and 100% full training data.
-- *2025.11*: &nbsp;🎉🎉 [**PaSaMaster**](https://scimaster.bohrium.com/chat/paper-search), an agent-driven, fully autonomous multidisciplinary literature retrieval system, understands natural-language queries and helps you find the papers you need.
-- *2025.07*: &nbsp;🎉🎉 [**SciMaster**](https://scimaster.bohrium.com/chat/general), a multi-disciplinary general-purpose intelligent agent, was officially released at the World Artificial Intelligence Conference (WAIC).
-- *2025.07*: &nbsp;🎉🎉 **X-Masters** surpasses the 30% threshold on Humanity’s Last Exam for the first time, achieving an impressive 32.1%.
-- *2025.06*: &nbsp;🎉🎉 **RoCo-Sim** was accepted to **ICCV 2025**!
+
+<div class="news-scroll" markdown="1">
+
+- [2026.08] [BigBang-v1](https://huggingface.co/endless-frontier/BigBang-v1) (a 35B-A3B model trained on self-evolving verifiable frontier tasks) is released, reaching **16K Hugging Face downloads** in its first month!
+- [2026.07] [OpenSeeker](https://arxiv.org/pdf/2603.15594) is accepted by **COLM 2026**!
+- [2026.07] [XYZ-Aquila](https://xyz-lab.ai/blogs/ai4ai-at-scale/) (an open-weight agent for complex, long-horizon web searching) reaches **84.8% on BrowseComp** and **53.3% on HLE**.
+- [2026.05] [OpenSeeker-v2](https://arxiv.org/pdf/2605.04036) (a SOTA search agent trained via pure SFT on only 10K trajectories) is released!
+- [2026.03] [OpenSeeker](https://arxiv.org/pdf/2603.15594) (the first state-of-the-art search agent with fully open-source data & model) is released!
+- [2025.11] [PaSaMaster](https://scimaster.bohrium.com/chat/paper-search) (a self-evolving agent for multidisciplinary literature retrieval) is released!
+- [2025.07] [SciMaster](https://scimaster.bohrium.com/chat/general) (a general-purpose scientific AI agent with tool-augmented reasoning) is released at **WAIC 2025**!
+- [2025.07] [X-Masters](https://arxiv.org/pdf/2507.05241) (a tool-augmented agent for scientific reasoning) becomes the first system to surpass 30% on **HLE**, scoring **32.1%**.
+- [2025.06] [RoCo-Sim](https://arxiv.org/pdf/2503.10410) (a foreground simulation framework for roadside collaborative perception) is accepted by **ICCV 2025**!
+
+</div>
 
 ## 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Tech Report 2026</div>
+      <img src='images/bigbang_combined.png' alt="BigBang-v1 results and self-evolving data synthesis pipeline" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[BigBang: Pursuing Open-Ended Intelligence through Self-Evolving Synthesis of Verifiable Frontier Tasks](https://endlessfrontier.tech/assets/paper.pdf)
+
+**The BigBang Team**
+
+BigBang-v1 is a 35B-A3B agentic model trained with a self-evolving generator-critic pipeline for verifiable frontier tasks. It leads comparable 35B models across eight benchmarks, scoring **76.5% on BrowseComp**, **50.3% on HLE**, **54.2% on SWE-Bench Pro**, **53.6% on PaperBench (Code-Dev)**, and **46.2% on FrontierScience Research**, with **16K+ Hugging Face downloads**.
+
+[**Paper**](https://endlessfrontier.tech/assets/paper.pdf) / [**Code**](https://github.com/endless-frontier/BigBang-v1) ![Stars](https://img.shields.io/github/stars/endless-frontier/BigBang-v1?style=social) / [**Model**](https://huggingface.co/endless-frontier/BigBang-v1) / [**机器之心**](https://mp.weixin.qq.com/s/tfXP9X3Idfqy4cxHQYLAcA)
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -46,14 +75,12 @@ I am a Ph.D. student at the School of Artificial Intelligence,<a href="https://e
 
 **XYZ Team**
 
-XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **BrowseComp**, **85.1%** on **BrowseComp-ZH**, **92.5%** on **DeepSearchQA**, **53.7%** on **LiveBrowseComp**, **53.3%** on **Humanity's Last Exam**, and **81.2%** on **WideSearch**. I was primarily responsible for **data synthesis**, a core component behind the agent's strong performance gains. The **OpenSeeker data** also provided important support for these capability gains.
+XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **BrowseComp**, **85.1%** on **BrowseComp-ZH**, **92.5%** on **DeepSearchQA**, **53.7%** on **LiveBrowseComp**, **53.3%** on **Humanity's Last Exam**, and **81.2%** on **WideSearch**. The **OpenSeeker data** also provided important support for these capability gains.
 
 [**Paper**](https://xyz-lab.ai/blogs/ai4ai-at-scale/assets/bounded-exploration-ai4ai-system-optimization.pdf) / [**Harness_code**](https://github.com/XYZ-AI-Lab/AxisAgentic) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/AxisAgentic?style=social) / [**Training_code**](https://github.com/XYZ-AI-Lab/axrl) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/axrl?style=social) / [**机器之心**](https://mp.weixin.qq.com/s/r8XCiqFTFcD5LVMJlbeghA)
 
   </div>
 </div>
-
-<br>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -75,8 +102,6 @@ A compact SFT release that expands OpenSeeker with more informative and higher-d
   </div>
 </div>
 
-<br>
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -97,8 +122,6 @@ We fill a long-standing gap in frontier search by fully open-sourcing the traini
   </div>
 </div>
 
-<br>
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -114,12 +137,10 @@ We fill a long-standing gap in frontier search by fully open-sourcing the traini
 
 A recursive self-evolving agentic literature retrieval system that iteratively analyzes intent, retrieves verified papers, and ranks them with evidence-grounded relevance scores. 
 
-[**ArXiv**](https://arxiv.org/pdf/2605.14306) / [**Code**](https://github.com/sjtu-sai-agents/PaSaMaster) ![Stars](https://img.shields.io/github/stars/sjtu-sai-agents/PaSaMaster?style=social)
+[**ArXiv**](https://arxiv.org/pdf/2605.14306) / [**Code**](https://github.com/sjtu-sai-agents/PaSaMaster) ![Stars](https://img.shields.io/github/stars/sjtu-sai-agents/PaSaMaster?style=social) / [**Benchmark**](https://huggingface.co/datasets/PaSaMaster/PaSaMaster_bench)
 
   </div>
 </div>
-
-<br>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -140,8 +161,6 @@ A general-purpose scientific AI agent built upon our tool-augmented reasoning ag
 
   </div>
 </div>
-
-<br>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -164,8 +183,6 @@ A foreground simulation framework that improves roadside collaborative perceptio
 </div>
 
 ## 🎖 Honors and Awards
-- **Outstanding Graduate of Tianjin Municipality**, 2025
 - **National Scholarship for Undergraduates**, 2024  
 - **National Scholarship for Undergraduates**, 2023  
 - **National Scholarship for Undergraduates**, 2022  
-

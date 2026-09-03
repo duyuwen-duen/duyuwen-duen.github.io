@@ -28,9 +28,9 @@ I am always happy to discuss **research ideas** and **potential collaborations**
 
 <div class="news-scroll" markdown="1">
 
-- [2026.08] [BigBang-v1](https://huggingface.co/endless-frontier/BigBang-v1) (a 35B-A3B model trained on self-evolving verifiable frontier tasks) is released, reaching **16K Hugging Face downloads** in its first month!
+- [2026.08] [BigBang-v1](https://huggingface.co/endless-frontier/BigBang-v1) (a self-evolving 35B-A3B agent) is released, surpassing **16K downloads** in its first month!
 - [2026.07] [OpenSeeker](https://arxiv.org/pdf/2603.15594) is accepted by **COLM 2026**!
-- [2026.07] [XYZ-Aquila](https://xyz-lab.ai/blogs/ai4ai-at-scale/) (an open-weight agent for complex, long-horizon web searching) reaches **84.8% on BrowseComp** and **53.3% on HLE**.
+- [2026.07] [XYZ-Aquila](https://xyz-lab.ai/blogs/ai4ai-at-scale/) (an open-weight deep-search agent) scores **84.8% on BrowseComp** and **53.3% on HLE**.
 - [2026.05] [OpenSeeker-v2](https://arxiv.org/pdf/2605.04036) (a SOTA search agent trained via pure SFT on only 10K trajectories) is released!
 - [2026.03] [OpenSeeker](https://arxiv.org/pdf/2603.15594) (the first state-of-the-art search agent with fully open-source data & model) is released!
 - [2025.11] [PaSaMaster](https://scimaster.bohrium.com/chat/paper-search) (a self-evolving agent for multidisciplinary literature retrieval) is released!

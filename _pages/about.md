@@ -89,26 +89,6 @@ A recursive self-evolving agentic literature retrieval system that iteratively a
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Tech Report 2025</div>
-      <img src='images/X_master.png' alt="SciMaster figure" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?](https://arxiv.org/pdf/2507.05241)
-
-Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<sup>*</sup>**, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen  
-
-A general-purpose scientific AI agent built upon our tool-augmented reasoning agent X-Master, designed to flexibly interact with external tools during scientific reasoning.
-
-[**ArXiv**](https://arxiv.org/pdf/2507.05241) / [**Code**](https://github.com/sjtu-sai-agents/X-Master) ![Stars](https://img.shields.io/github/stars/sjtu-sai-agents/X-Master?style=social)
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
       <div class="badge">ICCV 2025</div>
       <img src='images/simulation_result.png' alt="RoCo-Sim figure" width="100%">
     </div>
@@ -184,6 +164,26 @@ XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **Bro
 A compact SFT release that expands OpenSeeker with more informative and higher-difficulty trajectories, showing that only 10k samples can still push same-scale pure ReAct models to SOTA performance.
 
 [**ArXiv**](https://arxiv.org/pdf/2605.04036) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Model**](https://huggingface.co/PolarSeeker/OpenSeeker-v2-30B-SFT)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Tech Report 2025</div>
+      <img src='images/X_master.png' alt="SciMaster figure" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?](https://arxiv.org/pdf/2507.05241)
+
+Jingyi Chai<sup>*</sup>, Shuo Tang<sup>*</sup>, Rui Ye<sup>*</sup>, **Yuwen Du<sup>*</sup>**, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen  
+
+A general-purpose scientific AI agent built upon our tool-augmented reasoning agent X-Master, designed to flexibly interact with external tools during scientific reasoning.
+
+[**ArXiv**](https://arxiv.org/pdf/2507.05241) / [**Code**](https://github.com/sjtu-sai-agents/X-Master) ![Stars](https://img.shields.io/github/stars/sjtu-sai-agents/X-Master?style=social)
 
   </div>
 </div>

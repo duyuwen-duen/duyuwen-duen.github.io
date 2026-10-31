@@ -106,6 +106,8 @@ A foreground simulation framework that improves roadside collaborative perceptio
   </div>
 </div>
 
+<span class='anchor' id='tech-reports'></span>
+
 ## 📄 Tech Reports
 
 <div class='paper-box'>

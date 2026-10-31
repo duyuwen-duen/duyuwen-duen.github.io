@@ -24,6 +24,8 @@ I am a Ph.D. student at the School of Artificial Intelligence,<a href="https://e
 I am always happy to discuss **research ideas** and **potential collaborations**. Feel free to reach out!
 
 
+<span class='anchor' id='news'></span>
+
 ## 🔥 News
 
 <div class="news-scroll" markdown="1">
@@ -39,6 +41,8 @@ I am always happy to discuss **research ideas** and **potential collaborations**
 - [2025.06] [RoCo-Sim](https://arxiv.org/pdf/2503.10410) (a foreground simulation framework for roadside collaborative perception) is accepted by **ICCV 2025**!
 
 </div>
+
+<span class='anchor' id='publications'></span>
 
 ## 📝 Publications
 
@@ -183,6 +187,8 @@ A compact SFT release that expands OpenSeeker with more informative and higher-d
 
   </div>
 </div>
+
+<span class='anchor' id='honors-and-awards'></span>
 
 ## 🎖 Honors and Awards
 - **National Scholarship for Undergraduates**, 2024  

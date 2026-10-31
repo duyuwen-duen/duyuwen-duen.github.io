@@ -49,6 +49,12 @@
     border-bottom: 1px #efefef solid;
     padding: .9em 0;
 
+    &--highlight {
+        background-color: #fff9e6;
+        border-radius: 10px;
+        padding: .9em .75em;
+    }
+
     .paper-box-image {
         justify-content: center;
         display: flex;

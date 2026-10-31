@@ -42,67 +42,7 @@ I am always happy to discuss **research ideas** and **potential collaborations**
 
 ## 📝 Publications
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Tech Report 2026</div>
-      <img src='images/bigbang_combined.png' alt="BigBang-v1 results and self-evolving data synthesis pipeline" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[BigBang: Pursuing Open-Ended Intelligence through Self-Evolving Synthesis of Verifiable Frontier Tasks](https://endlessfrontier.tech/assets/paper.pdf)
-
-**The BigBang Team**
-
-BigBang-v1 is a 35B-A3B agentic model trained with a self-evolving generator-critic pipeline for verifiable frontier tasks. It leads comparable 35B models across eight benchmarks, scoring **76.5% on BrowseComp**, **50.3% on HLE**, **54.2% on SWE-Bench Pro**, **53.6% on PaperBench (Code-Dev)**, and **46.2% on FrontierScience Research**, with **16K+ Hugging Face downloads**.
-
-[**Paper**](https://endlessfrontier.tech/assets/paper.pdf) / [**Code**](https://github.com/endless-frontier/BigBang-v1) ![Stars](https://img.shields.io/github/stars/endless-frontier/BigBang-v1?style=social) / [**Model**](https://huggingface.co/endless-frontier/BigBang-v1) / [**机器之心**](https://mp.weixin.qq.com/s/tfXP9X3Idfqy4cxHQYLAcA)
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Tech Blog 2026</div>
-      <img src='images/xyz_result.png' alt="XYZ-Aquila result figure" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[AI4AI at Scale: Building Open-Weight Deep Search Agents](https://xyz-lab.ai/blogs/ai4ai-at-scale/)
-
-**XYZ Team**
-
-XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **BrowseComp**, **85.1%** on **BrowseComp-ZH**, **92.5%** on **DeepSearchQA**, **53.7%** on **LiveBrowseComp**, **53.3%** on **Humanity's Last Exam**, and **81.2%** on **WideSearch**. The **OpenSeeker data** also provided important support for these capability gains.
-
-[**Paper**](https://xyz-lab.ai/blogs/ai4ai-at-scale/assets/bounded-exploration-ai4ai-system-optimization.pdf) / [**Harness_code**](https://github.com/XYZ-AI-Lab/AxisAgentic) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/AxisAgentic?style=social) / [**Training_code**](https://github.com/XYZ-AI-Lab/axrl) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/axrl?style=social) / [**机器之心**](https://mp.weixin.qq.com/s/r8XCiqFTFcD5LVMJlbeghA)
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Tech Report 2026</div>
-      <img src='images/openseekerv2.png' alt="OpenSeeker-v2 figure" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/pdf/2605.04036)
-
-**Yuwen Du<sup>*</sup>**, Rui Ye<sup>*</sup>, Shuo Tang, Keduan Huang, Xinyu Zhu, Yuzhu Cai, Siheng Chen
-
-A compact SFT release that expands OpenSeeker with more informative and higher-difficulty trajectories, showing that only 10k samples can still push same-scale pure ReAct models to SOTA performance.
-
-[**ArXiv**](https://arxiv.org/pdf/2605.04036) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Model**](https://huggingface.co/PolarSeeker/OpenSeeker-v2-30B-SFT)
-
-  </div>
-</div>
-
-<div class='paper-box'>
+<div class='paper-box paper-box--highlight'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">COLM 2026</div>
@@ -178,6 +118,68 @@ A general-purpose scientific AI agent built upon our tool-augmented reasoning ag
 A foreground simulation framework that improves roadside collaborative perception by generating more realistic training scenes.
 
 [**ArXiv**](https://arxiv.org/pdf/2503.10410) / [**Code**](https://github.com/duyuwen-duen/RoCo-Sim) ![Stars](https://img.shields.io/github/stars/duyuwen-duen/RoCo-Sim?style=social)
+
+  </div>
+</div>
+
+## 📄 Tech Reports
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Tech Report 2026</div>
+      <img src='images/bigbang_combined.png' alt="BigBang-v1 results and self-evolving data synthesis pipeline" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[BigBang: Pursuing Open-Ended Intelligence through Self-Evolving Synthesis of Verifiable Frontier Tasks](https://endlessfrontier.tech/assets/paper.pdf)
+
+**The BigBang Team**
+
+BigBang-v1 is a 35B-A3B agentic model trained with a self-evolving generator-critic pipeline for verifiable frontier tasks. It leads comparable 35B models across eight benchmarks, scoring **76.5% on BrowseComp**, **50.3% on HLE**, **54.2% on SWE-Bench Pro**, **53.6% on PaperBench (Code-Dev)**, and **46.2% on FrontierScience Research**, with **16K+ Hugging Face downloads**.
+
+[**Paper**](https://endlessfrontier.tech/assets/paper.pdf) / [**Code**](https://github.com/endless-frontier/BigBang-v1) ![Stars](https://img.shields.io/github/stars/endless-frontier/BigBang-v1?style=social) / [**Model**](https://huggingface.co/endless-frontier/BigBang-v1) / [**机器之心**](https://mp.weixin.qq.com/s/tfXP9X3Idfqy4cxHQYLAcA)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Tech Report 2026</div>
+      <img src='images/xyz_result.png' alt="XYZ-Aquila result figure" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[AI4AI at Scale: Building Open-Weight Deep Search Agents](https://xyz-lab.ai/blogs/ai4ai-at-scale/)
+
+**XYZ Team**
+
+XYZ-Aquila-pro achieves strong results across six benchmarks: **84.8%** on **BrowseComp**, **85.1%** on **BrowseComp-ZH**, **92.5%** on **DeepSearchQA**, **53.7%** on **LiveBrowseComp**, **53.3%** on **Humanity's Last Exam**, and **81.2%** on **WideSearch**. The **OpenSeeker data** also provided important support for these capability gains.
+
+[**Paper**](https://xyz-lab.ai/blogs/ai4ai-at-scale/assets/bounded-exploration-ai4ai-system-optimization.pdf) / [**Harness_code**](https://github.com/XYZ-AI-Lab/AxisAgentic) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/AxisAgentic?style=social) / [**Training_code**](https://github.com/XYZ-AI-Lab/axrl) ![Stars](https://img.shields.io/github/stars/XYZ-AI-Lab/axrl?style=social) / [**机器之心**](https://mp.weixin.qq.com/s/r8XCiqFTFcD5LVMJlbeghA)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Tech Report 2026</div>
+      <img src='images/openseekerv2.png' alt="OpenSeeker-v2 figure" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/pdf/2605.04036)
+
+**Yuwen Du<sup>*</sup>**, Rui Ye<sup>*</sup>, Shuo Tang, Keduan Huang, Xinyu Zhu, Yuzhu Cai, Siheng Chen
+
+A compact SFT release that expands OpenSeeker with more informative and higher-difficulty trajectories, showing that only 10k samples can still push same-scale pure ReAct models to SOTA performance.
+
+[**ArXiv**](https://arxiv.org/pdf/2605.04036) / [**Code**](https://github.com/rui-ye/OpenSeeker) ![Stars](https://img.shields.io/github/stars/rui-ye/OpenSeeker?style=social) / [**Model**](https://huggingface.co/PolarSeeker/OpenSeeker-v2-30B-SFT)
 
   </div>
 </div>
